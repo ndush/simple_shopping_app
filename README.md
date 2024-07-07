@@ -51,5 +51,7 @@ A simple shopping app built with Kotlin and Jetpack Compose.
 
 ## APK Download
 [Download the APK](https://drive.google.com/file/d/13oUgJpWQnZVEv2oXrkDbUM06DIfn1npR/view?usp=sharing)
+## Virtualized Demo
+(https://appetize.io/app/android/com.sigiey.simple_shopping_app?device=pixel7&osVersion=13.0&record=true)
 
 
